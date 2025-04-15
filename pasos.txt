@@ -1,0 +1,3 @@
+estas son notas e instrucciones que se iran modificando al igual que el codigo 
+del juego junto con otro txt que va a servir como documentacion de que tanto
+se agrega al juego y como es su funcionamiento.
