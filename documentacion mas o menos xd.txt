@@ -7,3 +7,5 @@ se creo la ventana
 paso 3
 se creo la clase configuraciones que servira para el tamaño y color
 de la ventana por el momento
+
+paso 4
