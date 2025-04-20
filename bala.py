@@ -1,5 +1,5 @@
 import pygame
-import sys
+import txtpy
 from pygame.sprite import Sprite
 
 class bala(Sprite):
